@@ -10,6 +10,7 @@
 - Choose columns by name before reading a csv file
 - Choose columns by number before reading a csv file
 - Reading only the first n number of rows
+- Summary statistics (groupby, pivot table)**
 
 #### 03: Data Preproccessing with Pandas (Part 2)
 - How to extract new information from a column?
